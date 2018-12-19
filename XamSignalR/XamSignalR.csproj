@@ -11,5 +11,9 @@
 
   <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="3.3.0.967583" />
+    <PackageReference Include="Microsoft.AspNetCore.SignalR.Client" Version="1.1.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\XamSignalR.Contract\XamSignalR.Contract.csproj" />
   </ItemGroup>
 </Project>

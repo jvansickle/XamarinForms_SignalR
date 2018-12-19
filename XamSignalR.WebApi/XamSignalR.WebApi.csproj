@@ -8,10 +8,13 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
-    <PackageReference Include="Microsoft.AspNet.SignalR" Version="2.4.0" />
+    <PackageReference Include="Microsoft.AspNetCore.SignalR" Version="1.1.0" />
   </ItemGroup>
 
   <ItemGroup>
     <Folder Include="Hubs\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\XamSignalR.Contract\XamSignalR.Contract.csproj" />
   </ItemGroup>
 </Project>
