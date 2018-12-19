@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamSignalR.iOS", "XamSignal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamSignalR", "XamSignalR\XamSignalR.csproj", "{B3085A3D-707F-4A4A-924C-3DFB051AA1A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamSignalR.WebApi", "XamSignalR.WebApi\XamSignalR.WebApi.csproj", "{805D3615-EF06-43BC-914B-6C25737AC1B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,5 +69,21 @@ Global
 		{B3085A3D-707F-4A4A-924C-3DFB051AA1A8}.Ad-Hoc|iPhone.Build.0 = Debug|Any CPU
 		{B3085A3D-707F-4A4A-924C-3DFB051AA1A8}.AppStore|iPhone.ActiveCfg = Debug|Any CPU
 		{B3085A3D-707F-4A4A-924C-3DFB051AA1A8}.AppStore|iPhone.Build.0 = Debug|Any CPU
+		{805D3615-EF06-43BC-914B-6C25737AC1B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{805D3615-EF06-43BC-914B-6C25737AC1B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{805D3615-EF06-43BC-914B-6C25737AC1B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{805D3615-EF06-43BC-914B-6C25737AC1B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{805D3615-EF06-43BC-914B-6C25737AC1B2}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{805D3615-EF06-43BC-914B-6C25737AC1B2}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{805D3615-EF06-43BC-914B-6C25737AC1B2}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{805D3615-EF06-43BC-914B-6C25737AC1B2}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{805D3615-EF06-43BC-914B-6C25737AC1B2}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{805D3615-EF06-43BC-914B-6C25737AC1B2}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{805D3615-EF06-43BC-914B-6C25737AC1B2}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{805D3615-EF06-43BC-914B-6C25737AC1B2}.Release|iPhone.Build.0 = Release|Any CPU
+		{805D3615-EF06-43BC-914B-6C25737AC1B2}.Ad-Hoc|iPhone.ActiveCfg = Debug|Any CPU
+		{805D3615-EF06-43BC-914B-6C25737AC1B2}.Ad-Hoc|iPhone.Build.0 = Debug|Any CPU
+		{805D3615-EF06-43BC-914B-6C25737AC1B2}.AppStore|iPhone.ActiveCfg = Debug|Any CPU
+		{805D3615-EF06-43BC-914B-6C25737AC1B2}.AppStore|iPhone.Build.0 = Debug|Any CPU
 	EndGlobalSection
 EndGlobal
